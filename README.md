@@ -1,4 +1,4 @@
-# Covid React App for testing with OpenShift
+# React App for testing with OpenShift
 
 This app was created following the tutorial on the react website. Intro to React.
 Link is here: <https://reactjs.org/tutorial/tutorial.html>
